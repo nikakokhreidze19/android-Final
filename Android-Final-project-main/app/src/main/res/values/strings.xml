@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Wallpaper App</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="categories">კატეგორიები</string>
+    <string name="views">Views:</string>
+    <string name="sign_up">რეგისტრაცია</string>
+    <string name="email">ფოსტა</string>
+    <string name="password">პაროლი</string>
+    <string name="repeat_password">გაიმეორე პაროლი</string>
+    <string name="sign_in">შესვლა</string>
+    <string name="do_not_have_an_account">არ გაქვს ანგარიში?</string>
+    <string name="welcome_back">მოგესალმებით!</string>
+    <string name="set_lock_screen">დაყენება ბლოკირების ეკრანზე</string>
+    <string name="set_home_screen">დაყენება მთავარი ეკრანზე</string>
+    <string name="set_both">დაყენება ორივეზე</string>
+    <string name="profile">პროფილი</string>
+    <string name="home">მთავარი</string>
+    <string name="downloads">გადმოწერები:</string>
+    <string name="likes">მოწონებები:</string>
+    <string name="comments">კომენტარები:</string>
+    <string name="create_an_account">ანგარიშის შექმნა</string>
+    <string name="already_have_an_account">უკვე გაქვს ანგარიში?</string>
+    <string name="full_name">სრული სახელი</string>
+    <string name="full_name_profile">სრული სახელი:</string>
+    <string name="email_profile">ელ.ფოსტა:</string>
+    <string name="sign_out">გასვლა</string>
+    <string name="set_as_profile_image">დაყენება პროფილის სურათად</string>
+    <string name="search">ძიება</string>
+</resources>
